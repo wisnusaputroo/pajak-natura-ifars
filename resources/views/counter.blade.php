@@ -1,12 +1,8 @@
 <head>
-    ...
     @livewireStyles
 </head>
 <body>
     <livewire:counter />
-
-    ...
-
-    @livewireScripts
+     @livewireScripts
 </body>
 </html>
